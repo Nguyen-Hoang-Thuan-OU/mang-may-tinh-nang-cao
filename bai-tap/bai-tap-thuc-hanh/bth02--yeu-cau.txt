@@ -1,0 +1,4 @@
+﻿* Yêu cầu:
+
+01. Thiết lập cấu hình DNS trên 2 máy chủ Primary & Secondary
+https://youtu.be/1lC4zLWyBbk

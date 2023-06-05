@@ -1,0 +1,7 @@
+﻿* Yêu cầu:
+
+01. Cấu hình IPSEC cho Workgroup
+https://youtu.be/IlywU8jME8M
+
+02. Cài đặt, cấu hình MDaemon Server sử dụng 3 Server
+https://youtu.be/RwDNii1mhj8

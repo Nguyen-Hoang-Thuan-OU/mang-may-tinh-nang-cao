@@ -1,0 +1,7 @@
+Các em xem lại ví dụ minh họa ở tài liệu, giải thích & hướng dẫn của thầy ở lớp là làm được dạng BT này.
+
+---------------------------------------------------------------------------------
+
+Hầu hết các nhóm các em trả lời được kết quả. Em nào chưa rõ, hỏi lại các bạn trong nhóm & tham khảo kết quả minh họa của các nhóm.
+
+Về số Collision Domain, Broadcast Domain có nhóm làm 11 & 9 là chưa đúng. Các em lưu ý xem lại chức năng của các thiết bị thì sẽ trả lời được, lưu ý ở những vùng có kết nối sử dụng Hub.

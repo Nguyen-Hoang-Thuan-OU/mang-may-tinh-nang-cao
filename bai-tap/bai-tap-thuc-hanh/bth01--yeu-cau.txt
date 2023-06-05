@@ -1,0 +1,7 @@
+* Yêu cầu:
+
+01. Cài đặt DHCP server
+https://youtu.be/TxKohPeTdQA
+
+02. Cài đặt DHCP Relay Agent
+https://youtu.be/KHs5Vz9crXc

@@ -1,0 +1,53 @@
+﻿* Modem (bộ điều giải): chuyển sóng analog (kéo dây cáp quang từ ngoài đường vào) thành sóng điện tử (sóng dùng trong nhà/doanh nghiệp). Nếu nguyên căn nhà/doanh nghiệp chỉ có đúng một máy tính duy nhất thì có thể nối dây trực tiếp từ Modem vào máy tính, còn nếu có từ hai máy tính trở lên thì cần phải có Router và Switch.
+
+---------------------------------------
+
+* Router (bộ định tuyến): nó có nhiệm vụ lọc các gói tin từ internet và quyết xem gói tin nào sẽ được đi vào mạng nội bộ. Một đầu phải luôn được cắm vào modem, đầu còn lại có thể cắm trực tiếp vào các máy tính hoặc cắm vào Switch để có được nhiều máy tính được kết nối mạng hơn.
+	Ví dụ: Router quản lý vùng mạng 1, nhưng internet gửi các gói tin 1, 2, 3, 4 thì Router sẽ lọc các gói tin 1 để đưa vào vùng mạng 1, Router bỏ qua các gói tin 2, 3, 4.
+
+	* Có một loại Router là Router Wifi, loại này được nối dây trực tiếp với Router thông thường và có nhiệm vụ giúp các thiết bị như điện thoại, máy tính bảng,... có thể sử dụng mạng wifi không dây. Loại Router Wifi này giống với Access Point vì đều phải nối trực tiếp với Router thông thường, nhưng khi cấu hình những dịch vụ (chẳng hạn như DHCP,...), nếu dùng Access Point thì sẽ chỉ cần cấu hình Router thông thường là toàn bộ Access Point sẽ được áp dụng, còn Router Wifi thì phải đi cấu hình cho từng cái Router một.
+
+---------------------------------------
+
+* Hub (điểm trung tâm): kết nối cho các thiết bị (máy tính hay các thiết bị khác) trong cùng một mạng LAN với nhau.
+
+* Switch (bộ chuyển mạch): giúp các máy trong mạng giao tiếp với nhau, kết nối các đoạn mạng với nhau theo cấu trúc liên kết mạng (hình sao).
+
+	Ví dụ: mạng nội bộ có 5 máy A, B, C, D, E.
+		- Nếu A muốn giao tiếp với E
+			-> Hub sẽ nhân bản gói tin và chuyển gói tin cho tất cả các máy B, C, D, E.
+			-> (Trong khi đó) Switch sẽ giúp A trực tiếp chuyển gói tin sang cho E
+
+------------------------------------------------------------------------
+
+Tóm tắt: Switch giúp các máy nội bộ giao tiếp với nhau và chỉ trong một vùng mạng nội bộ, Router và Modem giúp vùng mạng nội bộ giao tiếp với internet.
+
+============================================================================================
+
+Ghi chú: các cục Modem đang sử dụng trong nhà là thiết bị tích hợp Modem + Router Wifi + Switch vì có một đường dây nối từ ngoài đường vào trong Modem, có thể phát wifi nhờ tích hợp Router Wifi và có 4 cổng Switch để người dùng cắm dây mạng trực tiếp.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

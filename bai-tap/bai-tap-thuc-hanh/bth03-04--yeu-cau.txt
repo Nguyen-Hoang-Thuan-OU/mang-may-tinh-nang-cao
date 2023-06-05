@@ -1,0 +1,7 @@
+﻿* Yêu cầu:
+
+01. Cấu hình DNS Server trên 3 máy chủ
+https://youtu.be/HevQ0QiOQDw
+
+02. Cài đặt, cấu hình MDaemon Server
+https://youtu.be/RX_bPHxokpg
